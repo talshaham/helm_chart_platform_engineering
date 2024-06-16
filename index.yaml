@@ -9,6 +9,6 @@ entries:
     name: deployment
     type: application
     urls:
-    - https://talshaham.github.io/simple-weather-helm-charts/deployment-0.1.0.tgz
+    - https://talshaham.github.io/helm_chart_platform_engineering/deployment-0.1.0.tgz
     version: 0.1.0
 generated: "2024-06-13T17:57:04.85502037+03:00"
